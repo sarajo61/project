@@ -1,84 +1,46 @@
     [
         {
             "name": "Pluralsight gains on Google Cloud partnership",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-            "Rating": "8.16",
-            "episode": 70,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Madhouse",
+            "description": "Pluralsight (PS +0.7%) announces a partnership with Google Cloud (GOOG -0.7%)(GOOGL -0.6%) to help enterprises develop skills on Cloud technologies- The companies were already partnering to reskill developers in India and Africa but will now bring that program worldwide- Pluralsight will add more than 50 Google Cloud-authored courses to its course library- The companies will also develop Google Cloud Role IQs to help CIOs and CTOs assess a team's Cloud tech skills.",
+            "Rating": "-0.6%",
+            "categorie":"Stock | Mony ",
+            "studio":"Brandy Betz",
             "img": "https://github.com/sarajo61/project/blob/master/google.png"
         },
         {
-            "name": "Death Note",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-            "Rating": "8.16",
-            "episode": 500,
-            "categorie":"Animation | Adventure",
-            "studio":"Madhouse",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/9/9453.jpg"
+            "name": "Nvidia Quadro Virtual Workstation joins Google Cloud",
+            "description": "Google (GOOG -0.7%)(GOOGL -0.6%) launches Nvidia (NVDA -1.6%) Quadro Virtual Workstation instances with GPU support from the likes of T4, which made its data center debut last fall.- The workstation operates on the RTX server platform with Turing architecture and is meant to accelerate visuals for professionals in gaming, AI, and research.- Google Cloud will also support Nvidia's V100, P100, and P4 GPUs.- The move makes Google the only public cloud offering T4 acceleration. Microsoft's Azure Marketplace also offers Quadro instance support but on previous generation Nvidia GPU architecture.- Post updated to correct the fourth bullet.",
+            "Rating": "-0.6%",
+            "categorie":"Stock | Mony ",
+            "studio":"Brandy Betz",
+            "img": "https://github.com/sarajo61/project/blob/master/google.png"
         },
-        {
-            "name": "Violet Evergarden",
-            "description": "There are words Violet heard on the battlefield, which she cannot forget. These words were given to her by someone she holds dear, more than anyone else. She does not yet know their meaning.A certain point in time, in the continent of Telesis. The great war which divided the continent into North and South has ended after four years, and the people are welcoming a new generation.",
-            "Rating": "8.39",
-            "episode": 14,
-            "categorie":"Fantasy | Drama ",
-            "studio":"Kyoto Animation",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/1329/90618.jpg"
+       
+           {
+            "name": "Intel, Google partner on hybrid cloud",
+            "description": "INTC (INTC -0.7%) and Google (GOOG -0.6%)(GOOGL -0.5%) Cloud announce a hybrid cloud partnership to collaborate on Anthos, a new reference design based on INTC's second-gen Xeon Scalable processor and an optimized Kubernetes software stack.- Anthos aims to simplify deployment across on-premise data centers and the cloud.- Intel will publish the production design as an Intel Select Solution and as a developer platform.",
+            "Rating": "-0.6%",
+            "categorie":"Stock | Mony ",
+            "studio":"Brandy Betz",
+            "img": "https://github.com/sarajo61/project/blob/master/google.png"
         },
-        {
-            "name": "Tokyo Ghoul",
-            "description": "",
-            "Rating": "8.01",
-            "episode": 12,
-            "categorie":"Action | Mystery",
-            "studio":"Studio Pierrot",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/5/64449.jpg"
+        
+           {
+            "name": "Elastic, MongoDB gain on Google partnership",
+            "description": "Google (GOOG -0.6%)(GOOGL -0.5%) Cloud Platform adds managed services from new open source partners MongoDB (MDB +4.2%), Elastic (ESTC +2.5%), DataStax, InfluxData, Neo4j, Redis Labs, and Confluent, which counts Microsoft as a stakeholder.- The move counters rival Amazon's tendency to package open-source projects under its own brand often without giving back to the original project, which caused a scuffle with MongoDB.- In other news from Google Cloud Next, the company will bring two new data center locations online in 2020: Seoul, South Korea and Salt Lake City, Utah. Google has a total of 15 regions and 45 zones.",
+            "Rating": "-0.6%",
+            "categorie":"Stock | Mony ",
+            "studio":"Brandy Betz",
+            "img": "https://github.com/sarajo61/project/blob/master/google.png"
         },
-        {
-            "name": "Black Clover",
-            "description": "Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the Wizard King—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically.",
-            "Rating": "6.55",
-            "episode": 51,
-            "categorie":"Magic | Shounen | Adventure",
-            "studio":"Studio Pierrot",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/2/88336.jpg"
+        
+           {
+            "name": "Google takes anchor position at Comstock Holding's Reston Station",
+            "description": "Comstock Holding (CHCI +1.6%) signs Google (GOOG -0.3%) to a lease in its Reston Station office building in Virginia.- Google will occupy the top floors of the building designed by architect Helmut Jahn.- The new space will give the tech giant room to growth its short- and long-term presence in the state, the company says.",
+            "Rating": "-0.3%",
+            "categorie":"Stock | Mony ",
+            "studio":"Liz Kiesche",
+            "img": "https://github.com/sarajo61/project/blob/master/google.png"
         },
-        {
-            "name": "Sword Art Online",
-            "description": "In the year 2022, virtual reality has progressed by leaps and bounds, and a massive online role-playing game called Sword Art Online (SAO) is launched. With the aid of NerveGear technology, players can control their avatars within the game using nothing but their own thoughts.",
-            "Rating": "7.66",
-            "episode": 25,
-            "categorie":"Drama | Adventure",
-            "studio":"A-1 Pictures",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/11/39717.jpg"
-        },
-        {
-            "name": "Nanatsu no Taizai",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-            "Rating": "8.30",
-            "episode": 24,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"A-1 Pictures",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/8/65409.jpg"
-        },
-        {
-            "name": "Kiseijuu: Sei no Kakuritsu",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-            "Rating": "8.53",
-            "episode": 24,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Madhouse",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/3/73178.jpg"
-        },
-        {
-            "name": "Hunter x Hunter (2011)",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-            "Rating": "9.11",
-            "episode": 148,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Madhouse",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/11/33657.jpg"
-        }
 
     ]
