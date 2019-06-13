@@ -2,9 +2,12 @@
         {
             "name": "The Intelligent Investor by Benjamin Graham",
             "description": "The updated 10th-anniversary edition of The Little Book of Common Sense Investing came out in 2017, and it’s another that belongs on the bookshelves of both professional and armchair investors managing their own accounts at home.
+
 This book explains one of the most popular investment strategies today and one that works in employer-sponsored retirement accounts and accounts you run on your own: index funds.
+
 Bogle believes that low-cost index funds are by far the best option for investors and leans on the authors mentioned above to prove his case. But his theories go beyond those of academia. Bogle is the founder and retired CEO of Vanguard, an investment management firm with over $5 trillion under management. He knows what he’s talking about.
-            Link of the book (https://www.amazon.com/Little-Book-Common-Sense-Investing-ebook/dp/B075Z6HSCJ?SubscriptionId=AKIAINYWQL7SPW7D7JCA&tag=aboutcom02thebalance-20&linkCode=sp1&camp=2025&creative=165953&creativeASIN=B075Z6HSCJ)",
+
+Link of the book (https://www.amazon.com/Little-Book-Common-Sense-Investing-ebook/dp/B075Z6HSCJ?SubscriptionId=AKIAINYWQL7SPW7D7JCA&tag=aboutcom02thebalance-20&linkCode=sp1&camp=2025&creative=165953&creativeASIN=B075Z6HSCJ)",
             "Rating": "4.6",
             "episode": 0,
             "categorie":"Stock | Mony ",
@@ -13,4 +16,21 @@ Bogle believes that low-cost index funds are by far the best option for investor
         },
         
 
+          {
+            "name": "One Up On Wall Street by Peter Lynch",
+            "description": "Peter Lynch is the author of more than one great investment book, with Beating the Street nearly giving him two slots on this list. But One Up On Wall Street is a go-to for investors who want to draw on their own common sense and knowledge to make smart investments.
+              
+Lynch managed the prestigious Magellan Fund at Fidelity from 1977 to 1990 producing an average 29.2% annual return — more than double the S&P 500 in the same period. His investment success led the fund to swell from $18 million in assets when he took over to $14 billion. The legendary investor has plenty of lessons in One Up On Wall Street for you to take to your investment accounts.
+
+Lynch is another advocate of long-term investment strategies. He is a proponent of investing in what you know best and investing in companies where you see the investment power right in front of you. From the supermarket shelves to workplace tools and products, you might already know the next big thing. And according to Lynch, you may want to put your money behind it. 
+              
+Link of the book (https://www.amazon.com/One-Up-Wall-Street-Already-ebook/dp/B006YDFYW6?SubscriptionId=AKIAINYWQL7SPW7D7JCA&tag=aboutcom02thebalance-20&linkCode=sp1&camp=2025&creative=165953&creativeASIN=B006YDFYW6) ",
+
+            "Rating": "4.6",
+            "episode": 0,
+            "categorie":"Stock | Mony ",
+            "studio":"Peter Lynch",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/51Pft%2B2gbaL._SY346_.jpg"
+        },
+        
     ]
