@@ -100,5 +100,39 @@ Link of the book (https://www.amazon.com/Big-Short-Inside-Doomsday-Machine-ebook
             "studio":"Michael Lewis",
             "img": "https://images-na.ssl-images-amazon.com/images/I/41bHaJ00D%2BL.jpg"
         },
+        
+        {
+            "name": "A Random Walk Down Wall Street by Burton Malkiel",
+            "description": "The updated version of this Wall Street classic helps investors understand important stock market concepts including exchange-traded funds (ETFs), emerging market investments, derivatives, and more. The classic tome comes from Princeton economist Burton Malkiel and popularized the “random walk hypothesis.”
+
+The random walk hypothesis states that one cannot consistently beat the markets, so it makes more sense to build a balanced portfolio that matches market performance. This idea also supports the efficient-market hypothesis. Don’t know what that means? Time to start reading.
+
+Fundamental concepts in the book include technical and fundamental analysis, whether or not actively managed mutual funds make sense, and other tried and true investment theories.
+
+Link of the book (https://www.amazon.com/Random-Walk-Down-Wall-Street-ebook/dp/B00QH9NTSI?SubscriptionId=AKIAINYWQL7SPW7D7JCA&tag=aboutcom02thebalance-20&linkCode=sp1&camp=2025&creative=165953&creativeASIN=B00QH9NTSI)",
+
+            "Rating": "4.6",
+            "episode": 0,
+            "categorie":"Stock | Mony",
+            "studio":"Burton G. Malkiel",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/51Vjq3a0LEL.jpg"
+        },
+        
+            {
+            "name": "The Little Book of Common Sense Investing by John C. Bogle",
+            "description": "The updated 10th-anniversary edition of The Little Book of Common Sense Investing came out in 2017, and it’s another that belongs on the bookshelves of both professional and armchair investors managing their own accounts at home.
+
+This book explains one of the most popular investment strategies today and one that works in employer-sponsored retirement accounts and accounts you run on your own: index funds.
+
+Bogle believes that low-cost index funds are by far the best option for investors and leans on the authors mentioned above to prove his case. But his theories go beyond those of academia. Bogle is the founder and retired CEO of Vanguard, an investment management firm with over $5 trillion under management. He knows what he’s talking about.
+
+Link of the book (https://www.amazon.com/Little-Book-Common-Sense-Investing-ebook/dp/B075Z6HSCJ?SubscriptionId=AKIAINYWQL7SPW7D7JCA&tag=aboutcom02thebalance-20&linkCode=sp1&camp=2025&creative=165953&creativeASIN=B075Z6HSCJ)",
+
+            "Rating": "4.6",
+            "episode": 0,
+            "categorie":"Stock | Mony",
+            "studio":"John C. Bogle",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/51wvE48u69L.jpg"
+        },
                
     ]
